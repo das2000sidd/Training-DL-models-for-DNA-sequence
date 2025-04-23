@@ -1,1 +1,1 @@
-# Training-DL-models-for-DNA-sequence
+# Training-DL-models-on-DNA-sequence
